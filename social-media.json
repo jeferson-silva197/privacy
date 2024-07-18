@@ -4,5 +4,13 @@
   "titulo": "Youtube",
   "icone": "https://img.freepik.com/vetores-premium/logotipo-do-youtube-com-um-quadrado-vermelho_876006-17.jpg",
   "caminho": "https://www.youtube.com/@EncurtaNetOficial",
-  "descricao": "Siga nosso canal no youtube"}
+  "descricao": "Siga nosso canal no youtube"
+},
+{
+ "id": 1,
+ "titulo": "Instagram",
+ "icone": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png",
+ "caminho": "https://www.instagram.com/encurtanet/",
+ "descricao": "O Melhor Encurtador agora no instagram"
+},
 ]
