@@ -1,0 +1,31 @@
+[{
+"id" : 1,
+"titulo" : "Encurtar Url",
+"caminho":"/shorten",
+"tipo": "INTERNO"
+},
+{
+"id" : 2,
+"titulo" : "Configurar Token",
+"caminho":"/token_configuration",
+"tipo": "INTERNO"
+},
+{
+"id" : 3,
+"titulo" : "Meus Links",
+"caminho":"/my_links",
+"tipo": "INTERNO"
+},
+{
+"id" : 4,
+"titulo" : "Acessar Plataforma",
+"caminho":"/shorten",
+"tipo": "EXTERNO"
+},
+{
+"id" : 5,
+"titulo" : "Políticas de Privacidade",
+"caminho":"/shorten",
+"tipo": "EXTERNO"
+}
+]
