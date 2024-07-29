@@ -7,25 +7,31 @@
 {
 "id" : 2,
 "titulo" : "Configurar Token",
-"caminho":"/token_configuration",
+"caminho":"/token-configuration",
 "tipo": "INTERNO"
 },
 {
 "id" : 3,
 "titulo" : "Meus Links",
-"caminho":"/my_links",
+"caminho":"/my-shortened-urls",
 "tipo": "INTERNO"
 },
 {
 "id" : 4,
-"titulo" : "Acessar Plataforma",
-"caminho":"/shorten",
-"tipo": "EXTERNO"
+"titulo" : "Redes Sociais",
+"caminho":"/social-media",
+"tipo": "INTERNO"
 },
-{
+  {
 "id" : 5,
+"titulo" : "Acessar Plataforma",
+"caminho":"https://descubra.encurta.net/",
+"tipo": "EXTERNO"
+}
+{
+"id" : 6,
 "titulo" : "Políticas de Privacidade",
-"caminho":"/shorten",
+"caminho":"https://encurta.net/pages/privacy",
 "tipo": "EXTERNO"
 }
 ]
